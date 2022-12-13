@@ -1,0 +1,15 @@
+E:\GEETBRAINS\Seminar2C#\PracticalTask\bin\Debug\net6.0\PracticalTask.exe
+E:\GEETBRAINS\Seminar2C#\PracticalTask\bin\Debug\net6.0\PracticalTask.deps.json
+E:\GEETBRAINS\Seminar2C#\PracticalTask\bin\Debug\net6.0\PracticalTask.runtimeconfig.json
+E:\GEETBRAINS\Seminar2C#\PracticalTask\bin\Debug\net6.0\PracticalTask.dll
+E:\GEETBRAINS\Seminar2C#\PracticalTask\bin\Debug\net6.0\PracticalTask.pdb
+E:\GEETBRAINS\Seminar2C#\PracticalTask\obj\Debug\net6.0\PracticalTask.csproj.AssemblyReference.cache
+E:\GEETBRAINS\Seminar2C#\PracticalTask\obj\Debug\net6.0\PracticalTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEETBRAINS\Seminar2C#\PracticalTask\obj\Debug\net6.0\PracticalTask.AssemblyInfoInputs.cache
+E:\GEETBRAINS\Seminar2C#\PracticalTask\obj\Debug\net6.0\PracticalTask.AssemblyInfo.cs
+E:\GEETBRAINS\Seminar2C#\PracticalTask\obj\Debug\net6.0\PracticalTask.csproj.CoreCompileInputs.cache
+E:\GEETBRAINS\Seminar2C#\PracticalTask\obj\Debug\net6.0\PracticalTask.dll
+E:\GEETBRAINS\Seminar2C#\PracticalTask\obj\Debug\net6.0\refint\PracticalTask.dll
+E:\GEETBRAINS\Seminar2C#\PracticalTask\obj\Debug\net6.0\PracticalTask.pdb
+E:\GEETBRAINS\Seminar2C#\PracticalTask\obj\Debug\net6.0\PracticalTask.genruntimeconfig.cache
+E:\GEETBRAINS\Seminar2C#\PracticalTask\obj\Debug\net6.0\ref\PracticalTask.dll
