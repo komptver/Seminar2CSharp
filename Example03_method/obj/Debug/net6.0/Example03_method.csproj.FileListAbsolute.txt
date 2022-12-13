@@ -1,0 +1,15 @@
+E:\GEETBRAINS\Seminar2C#\Example03_method\bin\Debug\net6.0\Example03_method.exe
+E:\GEETBRAINS\Seminar2C#\Example03_method\bin\Debug\net6.0\Example03_method.deps.json
+E:\GEETBRAINS\Seminar2C#\Example03_method\bin\Debug\net6.0\Example03_method.runtimeconfig.json
+E:\GEETBRAINS\Seminar2C#\Example03_method\bin\Debug\net6.0\Example03_method.dll
+E:\GEETBRAINS\Seminar2C#\Example03_method\bin\Debug\net6.0\Example03_method.pdb
+E:\GEETBRAINS\Seminar2C#\Example03_method\obj\Debug\net6.0\Example03_method.csproj.AssemblyReference.cache
+E:\GEETBRAINS\Seminar2C#\Example03_method\obj\Debug\net6.0\Example03_method.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEETBRAINS\Seminar2C#\Example03_method\obj\Debug\net6.0\Example03_method.AssemblyInfoInputs.cache
+E:\GEETBRAINS\Seminar2C#\Example03_method\obj\Debug\net6.0\Example03_method.AssemblyInfo.cs
+E:\GEETBRAINS\Seminar2C#\Example03_method\obj\Debug\net6.0\Example03_method.csproj.CoreCompileInputs.cache
+E:\GEETBRAINS\Seminar2C#\Example03_method\obj\Debug\net6.0\Example03_method.dll
+E:\GEETBRAINS\Seminar2C#\Example03_method\obj\Debug\net6.0\refint\Example03_method.dll
+E:\GEETBRAINS\Seminar2C#\Example03_method\obj\Debug\net6.0\Example03_method.pdb
+E:\GEETBRAINS\Seminar2C#\Example03_method\obj\Debug\net6.0\Example03_method.genruntimeconfig.cache
+E:\GEETBRAINS\Seminar2C#\Example03_method\obj\Debug\net6.0\ref\Example03_method.dll
